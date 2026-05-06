@@ -2,9 +2,7 @@
 
 ## About Me
 
--  New to coding
--  Working on Python skills
--  Vibe coding and learning from the Github community
+-  A vibe coding marketing & media expert.
 
 ## Get in Touch 📬
 
